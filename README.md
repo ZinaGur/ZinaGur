@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZinaGur
 - 👀 I’m interested in data analytics, data viz, environment, psycology, wellness, health
-- 🌱 I’m currently learning Google data analytics
 - 💞️ I’m looking to collaborate on data analysis, data viz, environment, psycology, wellness, health
 - 🌱 I’m currently learning Google data analytics
 
